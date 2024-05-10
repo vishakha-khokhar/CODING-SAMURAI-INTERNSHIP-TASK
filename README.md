@@ -1,4 +1,4 @@
-# CODING-SAMURAI-INTERNSHIP-TASK
+# TO-DO LIST APP
 This repository contains a simple and elegant Todo List web app built using HTML, Tailwind CSS, and JavaScript. The app allows users to create, manage, and save todos, all while enjoying a beautiful user interface design.
 
 ## Features
